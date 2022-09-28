@@ -7,4 +7,8 @@ hobby = input("What's your favorite hobby? ")
 print(name, end=" ")
 print("is " + str(age) + " years old", end=" ")
 print("and loves the color " + color + ".", end= " ")
+<<<<<<< HEAD
 print(name + " also likes to " + hobby + " and favorite food is " + food + ".", end=" " )
+=======
+print(name + " also likes to " + hobby + " and favorite food is " + food + ".", end=" " )
+>>>>>>> main
