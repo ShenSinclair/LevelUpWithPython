@@ -9,4 +9,4 @@ Python repo for Level Up In Tech Learning.
 
 💞️ I’m certifed in Linux Foundations, CompTIA ITF+, Amazon Web Services Certified Cloud Practioner and Certified Devloper Associate.
 
-📫 How to reach me email: sinclair.she@gmail.com, Connect with me on LinkedIn: www.linkedin.com/in/sheniell-sinclair
+📫 How to reach me email: sinclair.she@gmail.com, Connect with me on LinkedIn: www.linkedin.com/in/sheniell-sinclair Medium: https://medium.com/@sinclair.she
