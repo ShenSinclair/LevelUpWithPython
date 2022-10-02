@@ -15,13 +15,13 @@ List.append('EC2')
 List.append('Lambda')
 List.append('CodePipeline')
 
-print(List)
+print("Top 5 AWS Services:", List)
 
 List_length = str(len(List))
-print(List_length)
+print("# of Available Services:", List_length)
 
 del List[3:5]
-print(List)
+print("Top 3 AWS Services", List)
 
 List_length = str(len(List))
-print(List_length)
+print("# of Available Services", List_length)
