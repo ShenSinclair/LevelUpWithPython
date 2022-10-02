@@ -24,4 +24,4 @@ del List[3:5]
 print("Top 3 AWS Services", List)
 
 List_length = str(len(List))
-print("# of Available Services", List_length)
+print("# of Available Services:", List_length)
